@@ -9,3 +9,4 @@ Các resource đang sử dụng khá ổn:
   Account: Create
   
 - https://github.com/xitanggg/open-resume > Không có nhiều template lựa chọn
+- https://github.com/tbakerx/react-resume-template.git > Là 1 template resume khá đẹp và đơn giản. (Chỉ UI, không Database)
